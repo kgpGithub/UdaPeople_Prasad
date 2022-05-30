@@ -208,7 +208,7 @@ jobs:
           command: |
             cd backend
             # npm install
-		npm i --save-dev standard-version
+		        npm i --save-dev standard-version
             touch migrations_log.txt
             npm run migrations >> migrations_log.txt
             cat migrations_log.txt
