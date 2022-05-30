@@ -185,7 +185,7 @@ jobs:
       - 
         add_ssh_keys: 
           fingerprints: 
-            - "64:47:d8:4f:16:5a:a0:c3:8a:f4:68:af:36:ed:03:33"
+            - "9f:8a:0c:45:05:2c:b8:3a:ab:1b:ae:03:b3:13:55:8a"
       - 
         attach_workspace: 
           at: ~/
